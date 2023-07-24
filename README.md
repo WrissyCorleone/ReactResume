@@ -1,2 +1,0 @@
-# ReactResume
-Formik PDF viewer
