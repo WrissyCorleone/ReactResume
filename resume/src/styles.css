@@ -9,6 +9,7 @@
    }
 
    html {
+      
 	   font-size: 16px;
 	   font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir,
 	   "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial,
@@ -16,6 +17,7 @@
 	   margin: 0;
 	   padding: 0;
 	   text-decoration-skip-ink: "auto";
+    
    }
 
    :root {
@@ -61,7 +63,8 @@
 
 
    body {
-      
+      text-align: center;
+      height: min-content;
       padding: 0;
       margin: calc((100vh /25) *1.563) calc((100vh /25) *1.563) ;
       background-color: var(--gray-700);
