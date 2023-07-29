@@ -233,8 +233,7 @@ input[type="email"],
 }
 
 select {
-   margin: 0;
-   -webkit-appearance: none;
+   box-sizing:  none;
    box-sizing: border-box;
    padding: 0.65rem 0.5rem;
    font-size: 1rem;
